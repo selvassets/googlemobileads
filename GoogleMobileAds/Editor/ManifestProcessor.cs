@@ -83,9 +83,9 @@ public class ManifestProcessor : IPreprocessBuild
             propertiesPath = Path.Combine(packagesPathPrefix, PROPERTIES_RELATIVE_PATH);
         }
 
-        if (AssetDatabase.IsValidFolder("Packages/com.google.ads.mobile"))
+        if (AssetDatabase.IsValidFolder("Packages/com.selvassets.googlemobileads"))
         {
-            manifestPath = Path.Combine("Packages/com.google.ads.mobile", MANIFEST_RELATIVE_PATH);
+            manifestPath = Path.Combine("Packages/com.selvassets.googlemobileads", MANIFEST_RELATIVE_PATH);
         }
 
         XDocument manifest = null;
