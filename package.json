@@ -1,0 +1,15 @@
+{
+  "name": "com.selvassets.googlemobileads",
+  "displayName": "SA - Google Mobile Ads",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "Google Mobile Ads implementation by SelvAssets",
+  "keywords": [
+    "unity",
+    "api",
+    "admob",
+    "ads",
+    "google"
+  ],
+  "category": "Productivity"
+}
